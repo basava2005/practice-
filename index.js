@@ -24,5 +24,5 @@ user1.save();
 user.insertmany([
     {name:"adam",email:"adam222@123",ade:48},
     {name:"adam",email:"adam222@123",ade:48},
-    {name:"adam",email:"adam222@123",ade:48},
+    
 ])
